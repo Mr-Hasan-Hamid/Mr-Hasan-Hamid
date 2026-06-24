@@ -8,8 +8,8 @@
 
 ---
 
-### 🌐 Social Connects & Live Portfolios:
-<p align="left">
+<h3 align="center">🌐 Social Connects &amp; Live Portfolios:</h3>
+<p align="center">
   <a href="https://instagram.com/_19.hasan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/mr-hasan-hamid-8702203b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:hasanhamid4284@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
