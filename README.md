@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Hasan Hamid Banner" />
+  <img src="banner_v2.png" width="100%" alt="Hasan Hamid Banner" />
 </p>
 
 <p align="center">
