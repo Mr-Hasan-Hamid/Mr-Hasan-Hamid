@@ -115,11 +115,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/5d6a37f74dbd34482bf803afaa4e43588a57053b"><code>5d6a37f</code></a> <i>"docs: center align social connects and portfolios"</i> (12s ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/8a4a9caa007a7fd56ed6a01f3bae86ea70aa1c04"><code>8a4a9ca</code></a> <i>"feat: add portfolio links to README and update banner to show them in the center"</i> (1m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/7f87e0d6b849d4e06373f766310737b6d40ff93b"><code>7f87e0d</code></a> <i>"docs: rename banner to bypass GitHub camo cache"</i> (5m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/a87dbedb6d0f6cab00b19c5e78edc60e1b0bc7a7"><code>a87dbed</code></a> <i>"design: update header banner with high-fidelity typography text"</i> (7m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76e5ace82da0e309e652f5d7c1519c859f2ab306"><code>76e5ace</code></a> <i>"docs: add Arch, Kali Linux, and Hyprland badges and typing items"</i> (9m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76148f9796779cc8886763592a437920980090d6"><code>76148f9</code></a> <i>"docs: center align tech stack, language profile, and top projects"</i> (26s ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/5d6a37f74dbd34482bf803afaa4e43588a57053b"><code>5d6a37f</code></a> <i>"docs: center align social connects and portfolios"</i> (2m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/8a4a9caa007a7fd56ed6a01f3bae86ea70aa1c04"><code>8a4a9ca</code></a> <i>"feat: add portfolio links to README and update banner to show them in the center"</i> (3m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/7f87e0d6b849d4e06373f766310737b6d40ff93b"><code>7f87e0d</code></a> <i>"docs: rename banner to bypass GitHub camo cache"</i> (7m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/a87dbedb6d0f6cab00b19c5e78edc60e1b0bc7a7"><code>a87dbed</code></a> <i>"design: update header banner with high-fidelity typography text"</i> (9m ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
