@@ -108,11 +108,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/7f87e0d6b849d4e06373f766310737b6d40ff93b"><code>7f87e0d</code></a> <i>"docs: rename banner to bypass GitHub camo cache"</i> (7s ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/a87dbedb6d0f6cab00b19c5e78edc60e1b0bc7a7"><code>a87dbed</code></a> <i>"design: update header banner with high-fidelity typography text"</i> (2m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76e5ace82da0e309e652f5d7c1519c859f2ab306"><code>76e5ace</code></a> <i>"docs: add Arch, Kali Linux, and Hyprland badges and typing items"</i> (4m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/4ca117f0636b98f3cd15e7c245eb03e49d7d2b9b"><code>4ca117f</code></a> <i>"design: update header banner to cinematic 3D abstract tech graphic"</i> (5m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/023421ec098d024c7798008772a1da738d85bd01"><code>023421e</code></a> <i>"design: replace neon banner with highly professional SaaS typographic design"</i> (11m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/8a4a9caa007a7fd56ed6a01f3bae86ea70aa1c04"><code>8a4a9ca</code></a> <i>"feat: add portfolio links to README and update banner to show them in the center"</i> (11s ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/7f87e0d6b849d4e06373f766310737b6d40ff93b"><code>7f87e0d</code></a> <i>"docs: rename banner to bypass GitHub camo cache"</i> (4m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/a87dbedb6d0f6cab00b19c5e78edc60e1b0bc7a7"><code>a87dbed</code></a> <i>"design: update header banner with high-fidelity typography text"</i> (6m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76e5ace82da0e309e652f5d7c1519c859f2ab306"><code>76e5ace</code></a> <i>"docs: add Arch, Kali Linux, and Hyprland badges and typing items"</i> (8m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/4ca117f0636b98f3cd15e7c245eb03e49d7d2b9b"><code>4ca117f</code></a> <i>"design: update header banner to cinematic 3D abstract tech graphic"</i> (9m ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
