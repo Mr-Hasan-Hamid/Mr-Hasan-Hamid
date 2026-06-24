@@ -88,7 +88,7 @@
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
         <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>Other
+          <circle cx="6" cy="6" r="4" fill="#3572a5" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3572a5; margin-right: 4px;"></circle>Python
         </span>
         <span>⭐ 0</span>
         <span>🍴 0</span>
@@ -104,11 +104,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/886f6df2ce75e5630814832eba534983fafa03c0"><code>886f6df</code></a> <i>"feat: design absolute amazing premium cyberpunk profile dashboard with live activity workflow"</i> (14s ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootforge"><b>bootforge</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootforge/commit/ab6133e513a60fb829c4ad46e1f7fe60e7b503b2"><code>ab6133e</code></a> <i>"fix: make header responsive by hiding navigation links on mobile to prevent horizontal viewport overflow"</i> (9m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootforge"><b>bootforge</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootforge/commit/117a59dccfb7869f936eb37106b5f92231a924cc"><code>117a59d</code></a> <i>"fix: resolve duplicate CDN URLs in database and make upload script idempotent"</i> (26m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/023421ec098d024c7798008772a1da738d85bd01"><code>023421e</code></a> <i>"design: replace neon banner with highly professional SaaS typographic design"</i> (10s ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/886f6df2ce75e5630814832eba534983fafa03c0"><code>886f6df</code></a> <i>"feat: design absolute amazing premium cyberpunk profile dashboard with live activity workflow"</i> (2m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootforge"><b>bootforge</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootforge/commit/ab6133e513a60fb829c4ad46e1f7fe60e7b503b2"><code>ab6133e</code></a> <i>"fix: make header responsive by hiding navigation links on mobile to prevent horizontal viewport overflow"</i> (12m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootforge"><b>bootforge</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootforge/commit/117a59dccfb7869f936eb37106b5f92231a924cc"><code>117a59d</code></a> <i>"fix: resolve duplicate CDN URLs in database and make upload script idempotent"</i> (28m ago)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootforge"><b>bootforge</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootforge/commit/7ef1314dd538e6011ead38c52b79e6200b06d903"><code>7ef1314</code></a> <i>"design: replace README screenshot with high-quality Brave browser snapshot"</i> (2h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootforge"><b>bootforge</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootforge/commit/8e3e81b6412c7c97a9e9ca55e934311b36ce9f46"><code>8e3e81b</code></a> <i>"feat: add 5 new bootanimations, update database and readme grid with padded showcase previews"</i> (2h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
