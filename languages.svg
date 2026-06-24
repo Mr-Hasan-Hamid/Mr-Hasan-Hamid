@@ -5,25 +5,24 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-    <rect x="0.00" y="0" width="454.27" height="10" fill="#3178c6" />
-    <rect x="454.27" y="0" width="170.19" height="10" fill="#3572a5" />
-    <rect x="624.46" y="0" width="88.23" height="10" fill="#f1e05a" />
-    <rect x="712.68" y="0" width="32.00" height="10" fill="#89e051" />
-    <rect x="744.69" y="0" width="17.63" height="10" fill="#336791" />
-    <rect x="762.32" y="0" width="16.85" height="10" fill="#e34c26" />
-    <rect x="779.17" y="0" width="14.04" height="10" fill="#563d7c" />
-    <rect x="793.21" y="0" width="6.79" height="10" fill="#858585" />
+    <rect x="0.00" y="0" width="295.58" height="10" fill="#3178c6" />
+    <rect x="295.58" y="0" width="262.48" height="10" fill="#89e051" />
+    <rect x="558.06" y="0" width="163.77" height="10" fill="#f1e05a" />
+    <rect x="721.83" y="0" width="53.37" height="10" fill="#3572a5" />
+    <rect x="775.20" y="0" width="12.88" height="10" fill="#1e4aec" />
+    <rect x="788.08" y="0" width="11.35" height="10" fill="#563d7c" />
+    <rect x="799.44" y="0" width="0.56" height="10" fill="#858585" />
   </g>
   <circle cx="10" cy="31" r="5" fill="#3178c6" />
-  <text x="22" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">TypeScript <tspan fill="#8b949e">(56.8%)</tspan></text>
-  <circle cx="270" cy="31" r="5" fill="#3572a5" />
-  <text x="282" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Python <tspan fill="#8b949e">(21.3%)</tspan></text>
+  <text x="22" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">TypeScript <tspan fill="#8b949e">(36.9%)</tspan></text>
+  <circle cx="270" cy="31" r="5" fill="#89e051" />
+  <text x="282" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Shell <tspan fill="#8b949e">(32.8%)</tspan></text>
   <circle cx="530" cy="31" r="5" fill="#f1e05a" />
-  <text x="542" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">JavaScript <tspan fill="#8b949e">(11.0%)</tspan></text>
-  <circle cx="10" cy="51" r="5" fill="#89e051" />
-  <text x="22" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Shell <tspan fill="#8b949e">(4.0%)</tspan></text>
-  <circle cx="270" cy="51" r="5" fill="#336791" />
-  <text x="282" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">PLpgSQL <tspan fill="#8b949e">(2.2%)</tspan></text>
-  <circle cx="530" cy="51" r="5" fill="#e34c26" />
-  <text x="542" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">HTML <tspan fill="#8b949e">(2.1%)</tspan></text>
+  <text x="542" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">JavaScript <tspan fill="#8b949e">(20.5%)</tspan></text>
+  <circle cx="10" cy="51" r="5" fill="#3572a5" />
+  <text x="22" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Python <tspan fill="#8b949e">(6.7%)</tspan></text>
+  <circle cx="270" cy="51" r="5" fill="#1e4aec" />
+  <text x="282" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Scheme <tspan fill="#8b949e">(1.6%)</tspan></text>
+  <circle cx="530" cy="51" r="5" fill="#563d7c" />
+  <text x="542" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">CSS <tspan fill="#8b949e">(1.4%)</tspan></text>
 </svg>
