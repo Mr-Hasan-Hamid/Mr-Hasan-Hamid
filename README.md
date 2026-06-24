@@ -52,7 +52,7 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#89e051" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #89e051; margin-right: 4px;"></circle>Shell
         </span>
-        <span>⭐ 1</span>
+        <span>⭐ 2</span>
         <span>🍴 0</span>
       </div>
     </td>
@@ -81,11 +81,11 @@
       </div>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/hasan-20" style="text-decoration: none; color: #58a6ff;">📁 hasan-20</a></h3>
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid" style="text-decoration: none; color: #58a6ff;">📁 Mr-Hasan-Hamid</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
         <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>Other
+          <circle cx="6" cy="6" r="4" fill="#3572a5" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3572a5; margin-right: 4px;"></circle>Python
         </span>
         <span>⭐ 0</span>
         <span>🍴 0</span>
@@ -94,11 +94,11 @@
   </tr>
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid" style="text-decoration: none; color: #58a6ff;">📁 Mr-Hasan-Hamid</a></h3>
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/hasan-20" style="text-decoration: none; color: #58a6ff;">📁 hasan-20</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
         <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#3572a5" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3572a5; margin-right: 4px;"></circle>Python
+          <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>Other
         </span>
         <span>⭐ 0</span>
         <span>🍴 0</span>
@@ -115,11 +115,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/2d9abf0332c52f51cd71ca29fabb1c1cf7334893"><code>2d9abf0</code></a> <i>"docs: sync local banner image changes"</i> (9s ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76148f9796779cc8886763592a437920980090d6"><code>76148f9</code></a> <i>"docs: center align tech stack, language profile, and top projects"</i> (4m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/5d6a37f74dbd34482bf803afaa4e43588a57053b"><code>5d6a37f</code></a> <i>"docs: center align social connects and portfolios"</i> (6m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/8a4a9caa007a7fd56ed6a01f3bae86ea70aa1c04"><code>8a4a9ca</code></a> <i>"feat: add portfolio links to README and update banner to show them in the center"</i> (7m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/7f87e0d6b849d4e06373f766310737b6d40ff93b"><code>7f87e0d</code></a> <i>"docs: rename banner to bypass GitHub camo cache"</i> (11m ago)</li>
+<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands"><b>Mr-Hasan-Hamid/Arch-Hyprlands</b></a> (1h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/2d9abf0332c52f51cd71ca29fabb1c1cf7334893"><code>2d9abf0</code></a> <i>"docs: sync local banner image changes"</i> (3h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76148f9796779cc8886763592a437920980090d6"><code>76148f9</code></a> <i>"docs: center align tech stack, language profile, and top projects"</i> (3h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/5d6a37f74dbd34482bf803afaa4e43588a57053b"><code>5d6a37f</code></a> <i>"docs: center align social connects and portfolios"</i> (3h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/8a4a9caa007a7fd56ed6a01f3bae86ea70aa1c04"><code>8a4a9ca</code></a> <i>"feat: add portfolio links to README and update banner to show them in the center"</i> (3h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
