@@ -19,7 +19,8 @@
   <a href="https://mr-hasan-hamidd.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%203-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 3" /></a>
 </p>
 
-### 💻 Deep Dive Tech Stack:
+<h3 align="center">💻 Deep Dive Tech Stack:</h3>
+<div align="center">
 
 | Category | Badges / Stack |
 | :--- | :--- |
@@ -28,14 +29,19 @@
 | **Linux, DevOps & Host** | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=flat-square&logo=kali-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-33CCFF?style=flat-square&logo=hyprland&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat-square&logo=sentry&logoColor=white) |
 | **Creative Assets** | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat-square&logo=Adobe%20Fonts&logoColor=white) |
 
----
-
-### 📊 Language Profile:
-<img src="languages.svg" width="100%" alt="Languages Chart" />
+</div>
 
 ---
 
-### 🚀 Top Projects Showcase:
+<h3 align="center">📊 Language Profile:</h3>
+<p align="center">
+  <img src="languages.svg" width="100%" alt="Languages Chart" />
+</p>
+
+---
+
+<h3 align="center">🚀 Top Projects Showcase:</h3>
+<div align="center">
 <!-- START_SECTION:repos -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -102,6 +108,7 @@
   </tr>
 </table>
 <!-- END_SECTION:repos -->
+</div>
 
 ---
 
