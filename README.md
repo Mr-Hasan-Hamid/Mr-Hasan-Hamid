@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_v2.png" width="100%" alt="Hasan Hamid Banner" />
+  <img src="banner_v3.png" width="100%" alt="Hasan Hamid Banner" />
 </p>
 
 <p align="center">
@@ -8,11 +8,15 @@
 
 ---
 
-### 🌐 Social Connects & Core Tech:
+### 🌐 Social Connects & Live Portfolios:
 <p align="left">
   <a href="https://instagram.com/_19.hasan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/mr-hasan-hamid-8702203b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:hasanhamid4284@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <br />
+  <a href="https://19-hasan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%201-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 1" /></a>
+  <a href="https://sudo-hasan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%202-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 2" /></a>
+  <a href="https://mr-hasan-hamidd.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%203-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 3" /></a>
 </p>
 
 ### 💻 Deep Dive Tech Stack:
