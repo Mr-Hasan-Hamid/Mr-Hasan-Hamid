@@ -2,180 +2,146 @@
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080711" />
-      <stop offset="50%" stop-color="#0f0c20" />
-      <stop offset="100%" stop-color="#05040a" />
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="50%" stop-color="#0e0e11" />
+      <stop offset="100%" stop-color="#09090b" />
     </linearGradient>
     
-    <!-- Accent Gradients -->
-    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f2fe" />
-      <stop offset="100%" stop-color="#c621e5" />
+    <!-- Text Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="70%" stop-color="#f4f4f5" />
+      <stop offset="100%" stop-color="#a1a1aa" />
     </linearGradient>
 
-    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#c621e5" stop-opacity="0"/>
+    <!-- Ambient Glow Gradients -->
+    <radialGradient id="indigoGlow" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="80%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Accent Line Gradients -->
+    <linearGradient id="cyanBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
     </linearGradient>
-
-    <!-- Glowing Filters -->
-    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
+    <linearGradient id="pinkPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
   </defs>
 
   <style>
-    @keyframes pulse {
-      0% { opacity: 0.3; }
-      50% { opacity: 0.7; }
-      100% { opacity: 0.3; }
+    @keyframes orbit-cw {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
     }
-    @keyframes float {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(-4px); }
-      100% { transform: translateY(0px); }
-    }
-    @keyframes dash {
-      to {
-        stroke-dashoffset: -40;
-      }
+    @keyframes orbit-ccw {
+      from { transform: rotate(360deg); }
+      to { transform: rotate(0deg); }
     }
     @keyframes blink {
       0%, 100% { opacity: 1; }
-      50% { opacity: 0.3; }
+      50% { opacity: 0.4; }
     }
-    .grid-dot {
-      fill: #2c254e;
-      opacity: 0.45;
+    .orbit-1 {
+      transform-origin: 640px 125px;
+      animation: orbit-cw 20s linear infinite;
     }
-    .neon-path {
-      stroke: url(#cyanPurple);
-      stroke-width: 1.5;
-      stroke-dasharray: 20 20;
-      animation: dash 6s linear infinite;
+    .orbit-2 {
+      transform-origin: 640px 125px;
+      animation: orbit-ccw 25s linear infinite;
     }
-    .title-text {
-      font-family: 'Inter', system-ui, -apple-system, sans-serif;
-      font-weight: 800;
-      font-size: 42px;
-      letter-spacing: 6px;
-      fill: url(#cyanPurple);
-      filter: url(#neonGlow);
-      animation: float 4s ease-in-out infinite;
+    .grid-lines {
+      stroke: #27272a;
+      stroke-width: 0.5;
+      opacity: 0.15;
     }
-    .subtitle-text {
-      font-family: 'Outfit', system-ui, -apple-system, sans-serif;
-      font-weight: 400;
-      font-size: 14px;
-      letter-spacing: 5px;
-      fill: #a0aec0;
-    }
-    .tag-bg {
-      fill: #141029;
-      stroke: #312b60;
-      stroke-width: 1.2;
-    }
-    .tag-text {
-      font-family: monospace;
-      font-size: 11px;
-      fill: #00f2fe;
-    }
-    .pulse-circle {
-      animation: blink 2s infinite;
+    .dot-grid {
+      fill: #ffffff;
+      opacity: 0.03;
     }
   </style>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="15" />
-  
-  <!-- Subtle Glowing background accent -->
-  <circle cx="120" cy="60" r="180" fill="url(#glowGrad)" filter="url(#neonGlow)" />
-  <circle cx="680" cy="180" r="150" fill="url(#glowGrad)" filter="url(#neonGlow)" opacity="0.6" />
+  <!-- Base Background -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="12" />
 
-  <!-- Dot Grid Pattern -->
+  <!-- Ambient Lights -->
+  <rect width="100%" height="100%" fill="url(#indigoGlow)" rx="12" />
+  <rect width="100%" height="100%" fill="url(#violetGlow)" rx="12" />
+
+  <!-- Fine Technical Grid -->
   <g>
-    <circle cx="50" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="100" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="150" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="200" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="250" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="300" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="350" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="400" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="450" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="500" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="550" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="600" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="650" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="700" cy="40" r="1.5" class="grid-dot" />
-    <circle cx="750" cy="40" r="1.5" class="grid-dot" />
+    <!-- Horizontal grid lines -->
+    <line x1="0" y1="50" x2="800" y2="50" class="grid-lines" />
+    <line x1="0" y1="100" x2="800" y2="100" class="grid-lines" />
+    <line x1="0" y1="150" x2="800" y2="150" class="grid-lines" />
+    <line x1="0" y1="200" x2="800" y2="200" class="grid-lines" />
     
-    <circle cx="50" cy="90" r="1.5" class="grid-dot" />
-    <circle cx="100" cy="90" r="1.5" class="grid-dot" />
-    <circle cx="700" cy="90" r="1.5" class="grid-dot" />
-    <circle cx="750" cy="90" r="1.5" class="grid-dot" />
-
-    <circle cx="50" cy="140" r="1.5" class="grid-dot" />
-    <circle cx="100" cy="140" r="1.5" class="grid-dot" />
-    <circle cx="700" cy="140" r="1.5" class="grid-dot" />
-    <circle cx="750" cy="140" r="1.5" class="grid-dot" />
-
-    <circle cx="50" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="100" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="150" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="200" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="250" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="300" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="350" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="400" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="450" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="500" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="550" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="600" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="650" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="700" cy="190" r="1.5" class="grid-dot" />
-    <circle cx="750" cy="190" r="1.5" class="grid-dot" />
+    <!-- Vertical grid lines -->
+    <line x1="160" y1="0" x2="160" y2="250" class="grid-lines" />
+    <line x1="320" y1="0" x2="320" y2="250" class="grid-lines" />
+    <line x1="480" y1="0" x2="480" y2="250" class="grid-lines" />
+    <line x1="640" y1="0" x2="640" y2="250" class="grid-lines" />
   </g>
 
-  <!-- Glowing futuristic lines -->
-  <line x1="50" y1="115" x2="250" y2="115" class="neon-path" />
-  <line x1="550" y1="115" x2="750" y2="115" class="neon-path" />
-  
-  <!-- Left accent triangle -->
-  <polygon points="50,105 50,125 60,115" fill="#00f2fe" filter="url(#softGlow)" />
-  <!-- Right accent triangle -->
-  <polygon points="750,105 750,125 740,115" fill="#c621e5" filter="url(#softGlow)" />
-
-  <!-- Center Content -->
-  <g transform="translate(400, 105)" text-anchor="middle">
-    <!-- Main Title with animation class -->
-    <text y="-5" class="title-text">HASAN HAMID</text>
-    <!-- Subtitle -->
-    <text y="35" class="subtitle-text">FULL-STACK DEVELOPER &amp; LINUX ENTHUSIAST</text>
+  <!-- Technical Dots Overlay -->
+  <g class="dot-grid">
+    <!-- Row 1 -->
+    <circle cx="80" cy="25" r="1" /> <circle cx="240" cy="25" r="1" /> <circle cx="400" cy="25" r="1" /> <circle cx="560" cy="25" r="1" /> <circle cx="720" cy="25" r="1" />
+    <!-- Row 2 -->
+    <circle cx="80" cy="75" r="1" /> <circle cx="240" cy="75" r="1" /> <circle cx="400" cy="75" r="1" /> <circle cx="560" cy="75" r="1" /> <circle cx="720" cy="75" r="1" />
+    <!-- Row 3 -->
+    <circle cx="80" cy="125" r="1" /> <circle cx="240" cy="125" r="1" /> <circle cx="400" cy="125" r="1" /> <circle cx="560" cy="125" r="1" /> <circle cx="720" cy="125" r="1" />
+    <!-- Row 4 -->
+    <circle cx="80" cy="175" r="1" /> <circle cx="240" cy="175" r="1" /> <circle cx="400" cy="175" r="1" /> <circle cx="560" cy="175" r="1" /> <circle cx="720" cy="175" r="1" />
+    <!-- Row 5 -->
+    <circle cx="80" cy="225" r="1" /> <circle cx="240" cy="225" r="1" /> <circle cx="400" cy="225" r="1" /> <circle cx="560" cy="225" r="1" /> <circle cx="720" cy="225" r="1" />
   </g>
 
-  <!-- Cyber System Badges at the bottom -->
-  <g transform="translate(150, 205)">
-    <rect x="0" y="-18" width="130" height="24" rx="12" class="tag-bg" />
-    <circle cx="15" cy="-6" r="4" fill="#00f2fe" class="pulse-circle" filter="url(#softGlow)" />
-    <text x="30" y="-2" class="tag-text">SYSTEM: ACTIVE</text>
+  <!-- Elegant Content Group (Left Side) -->
+  <g transform="translate(60, 0)">
+    <!-- Badge -->
+    <g transform="translate(0, 65)">
+      <rect width="250" height="24" rx="12" fill="#18181b" stroke="#27272a" stroke-width="1" />
+      <circle cx="16" cy="12" r="3" fill="#10b981" style="animation: blink 2s infinite;" />
+      <text x="28" y="16" font-family="monospace" font-size="10" fill="#a1a1aa" font-weight="600" letter-spacing="1">FULL-STACK DEVELOPER // ACTIVE</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="0" y="132" font-family="'Inter', -apple-system, sans-serif" font-size="44" font-weight="800" fill="url(#textGrad)" letter-spacing="-1">HASAN HAMID</text>
+
+    <!-- Description -->
+    <text x="0" y="168" font-family="-apple-system, sans-serif" font-size="13" font-weight="500" fill="#71717a" letter-spacing="1.5">BUILDING HIGH-PERFORMANCE WEB APPS &amp; 3D EXPERIENCES</text>
+
+    <!-- Skills Dots / Accent -->
+    <g transform="translate(0, 195)" fill="#71717a" font-family="monospace" font-size="9" letter-spacing="2">
+      <text x="0" y="0">TYPESCRIPT  ●  REACT  ●  NEXT.JS  ●  PYTHON  ●  LINUX</text>
+    </g>
   </g>
 
-  <g transform="translate(520, 205)">
-    <rect x="0" y="-18" width="130" height="24" rx="12" class="tag-bg" />
-    <circle cx="15" cy="-6" r="4" fill="#c621e5" class="pulse-circle" filter="url(#softGlow)" />
-    <text x="30" y="-2" class="tag-text">SHELL: HYPRLAND</text>
+  <!-- Elegant Abstract Vector Graphic (Right Side) -->
+  <g>
+    <!-- Outer static technical circle -->
+    <circle cx="640" cy="125" r="80" fill="none" stroke="#27272a" stroke-width="0.5" stroke-dasharray="4 8" />
+    <circle cx="640" cy="125" r="60" fill="none" stroke="#27272a" stroke-width="0.5" />
+
+    <!-- Animated Orbiting Rings (Stripe/Vercel style) -->
+    <g class="orbit-1">
+      <ellipse cx="640" cy="125" rx="65" ry="30" fill="none" stroke="url(#cyanBlue)" stroke-width="1.2" transform="rotate(-30 640 125)" opacity="0.8"/>
+      <circle cx="585" cy="93" r="3" fill="#06b6d4" />
+    </g>
+    <g class="orbit-2">
+      <ellipse cx="640" cy="125" rx="65" ry="30" fill="none" stroke="url(#pinkPurple)" stroke-width="1.2" transform="rotate(45 640 125)" opacity="0.6"/>
+      <circle cx="695" cy="157" r="3" fill="#ec4899" />
+    </g>
+
+    <!-- Center Node -->
+    <circle cx="640" cy="125" r="8" fill="#09090b" stroke="#3b82f6" stroke-width="1.5" />
+    <circle cx="640" cy="125" r="3" fill="#00f2fe" />
   </g>
 </svg>
