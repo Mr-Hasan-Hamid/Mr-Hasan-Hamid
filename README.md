@@ -115,11 +115,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands"><b>Mr-Hasan-Hamid/Arch-Hyprlands</b></a> (8h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/2d9abf0332c52f51cd71ca29fabb1c1cf7334893"><code>2d9abf0</code></a> <i>"docs: sync local banner image changes"</i> (10h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76148f9796779cc8886763592a437920980090d6"><code>76148f9</code></a> <i>"docs: center align tech stack, language profile, and top projects"</i> (10h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/5d6a37f74dbd34482bf803afaa4e43588a57053b"><code>5d6a37f</code></a> <i>"docs: center align social connects and portfolios"</i> (10h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/8a4a9caa007a7fd56ed6a01f3bae86ea70aa1c04"><code>8a4a9ca</code></a> <i>"feat: add portfolio links to README and update banner to show them in the center"</i> (10h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootforge"><b>bootforge</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootforge/commit/e343f85199748e76bbdeadf022e875cb85756d35"><code>e343f85</code></a> <i>"chore: rebrand project to BootAnimDeck"</i> (10m ago)</li>
+<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands"><b>Mr-Hasan-Hamid/Arch-Hyprlands</b></a> (15h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/2d9abf0332c52f51cd71ca29fabb1c1cf7334893"><code>2d9abf0</code></a> <i>"docs: sync local banner image changes"</i> (16h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76148f9796779cc8886763592a437920980090d6"><code>76148f9</code></a> <i>"docs: center align tech stack, language profile, and top projects"</i> (16h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/5d6a37f74dbd34482bf803afaa4e43588a57053b"><code>5d6a37f</code></a> <i>"docs: center align social connects and portfolios"</i> (16h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
