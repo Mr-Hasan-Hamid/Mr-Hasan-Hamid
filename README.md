@@ -70,7 +70,7 @@
   </tr>
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/bootforge" style="text-decoration: none; color: #58a6ff;">📁 bootforge</a></h3>
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck" style="text-decoration: none; color: #58a6ff;">📁 bootanimdeck</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
         <span style="display: inline-flex; align-items: center; gap: 4px;">
@@ -115,11 +115,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootforge"><b>bootforge</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootforge/commit/e343f85199748e76bbdeadf022e875cb85756d35"><code>e343f85</code></a> <i>"chore: rebrand project to BootAnimDeck"</i> (10m ago)</li>
-<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands"><b>Mr-Hasan-Hamid/Arch-Hyprlands</b></a> (15h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/2d9abf0332c52f51cd71ca29fabb1c1cf7334893"><code>2d9abf0</code></a> <i>"docs: sync local banner image changes"</i> (16h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/76148f9796779cc8886763592a437920980090d6"><code>76148f9</code></a> <i>"docs: center align tech stack, language profile, and top projects"</i> (16h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/5d6a37f74dbd34482bf803afaa4e43588a57053b"><code>5d6a37f</code></a> <i>"docs: center align social connects and portfolios"</i> (16h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/6362375411d7e08e875010de08a612eb8a557977"><code>6362375</code></a> <i>"chore: sync service worker for new assets"</i> (51m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/e8816f06afb7e4efb3303986a569063f0c27457b"><code>e8816f0</code></a> <i>"feat: implement progressive WebM video preview player with automatic GIF fallback"</i> (1h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/5bcdd351100f010c49a37a252263455ec351eee8"><code>5bcdd35</code></a> <i>"fix: restore marquee hover previews with dynamic on-demand loading and fix mobile squishing of category buttons"</i> (2h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/0c958aa17945700a606aaa65ea8306654dd145c2"><code>0c958aa</code></a> <i>"perf: disable PWA SW registration for bots and optimize marquee HTTP resource count"</i> (2h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/b7e0af2c59109c342af6c9ecc459f8105e88f7c7"><code>b7e0af2</code></a> <i>"perf: optimize HoverPreview and DrawerPreview with native lazy preloading and crossfade transitions"</i> (3h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
