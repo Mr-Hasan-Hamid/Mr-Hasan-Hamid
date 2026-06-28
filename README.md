@@ -70,22 +70,22 @@
   </tr>
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid" style="text-decoration: none; color: #58a6ff;">📁 Mr-Hasan-Hamid</a></h3>
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck" style="text-decoration: none; color: #58a6ff;">📁 bootanimdeck</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
         <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#3572a5" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3572a5; margin-right: 4px;"></circle>Python
+          <circle cx="6" cy="6" r="4" fill="#3178c6" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3178c6; margin-right: 4px;"></circle>TypeScript
         </span>
         <span>⭐ 0</span>
         <span>🍴 0</span>
       </div>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck" style="text-decoration: none; color: #58a6ff;">📁 bootanimdeck</a></h3>
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid" style="text-decoration: none; color: #58a6ff;">📁 Mr-Hasan-Hamid</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
         <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#3178c6" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3178c6; margin-right: 4px;"></circle>TypeScript
+          <circle cx="6" cy="6" r="4" fill="#3572a5" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3572a5; margin-right: 4px;"></circle>Python
         </span>
         <span>⭐ 0</span>
         <span>🍴 0</span>
@@ -115,11 +115,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/464019db9faf5310d93448818e830de79d0709ce"><code>464019d</code></a> <i>"fix: remove unused parameter to fix ESLint build error"</i> (2h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/060d3af7df96f45d26202b47001ecf489fef52bb"><code>060d3af</code></a> <i>"fix: remove broken middleware redirect causing 404 on all pages"</i> (2h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/37a3f81a7faeb74ba8a09a430911f7ffb66bbaaa"><code>37a3f81</code></a> <i>"fix: remove broken entries (hh, pinterest_video, free_hd stale dirs)"</i> (2h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/df074ee55087f83cc49899df813ebbbcbe1f4720"><code>df074ee</code></a> <i>"feat: add 10 new Pinterest animations"</i> (17h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/9ddd90a4f201870682663a8214027e2204c5fb28"><code>9ddd90a</code></a> <i>"fix(hover): preload video via IntersectionObserver for instant playback"</i> (yesterday)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/21bf1152ef2eb45deb883895c3f33bd6e441dcb3"><code>21bf115</code></a> <i>"fix: restore absolute Cloudflare R2 CDN URLs in animations.json"</i> (1h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/464019db9faf5310d93448818e830de79d0709ce"><code>464019d</code></a> <i>"fix: remove unused parameter to fix ESLint build error"</i> (7h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/060d3af7df96f45d26202b47001ecf489fef52bb"><code>060d3af</code></a> <i>"fix: remove broken middleware redirect causing 404 on all pages"</i> (7h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/37a3f81a7faeb74ba8a09a430911f7ffb66bbaaa"><code>37a3f81</code></a> <i>"fix: remove broken entries (hh, pinterest_video, free_hd stale dirs)"</i> (8h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/df074ee55087f83cc49899df813ebbbcbe1f4720"><code>df074ee</code></a> <i>"feat: add 10 new Pinterest animations"</i> (23h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
