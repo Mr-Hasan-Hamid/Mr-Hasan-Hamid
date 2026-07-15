@@ -115,7 +115,7 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/73f82227dea6b7120939bc49105062038d238368"><code>73f8222</code></a> <i>"feat: use custom ResolutionDropdown in bulk downloader and playback drawer"</i> (15 days ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/73f82227dea6b7120939bc49105062038d238368"><code>73f8222</code></a> <i>"feat: use custom ResolutionDropdown in bulk downloader and playback drawer"</i> (16 days ago)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/af6a0e8ba44986b2da7de814630749162f18a5a2"><code>af6a0e8</code></a> <i>"feat: add client-side bootanimation ZIP resolution resizing"</i> (16 days ago)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/21bf1152ef2eb45deb883895c3f33bd6e441dcb3"><code>21bf115</code></a> <i>"fix: restore absolute Cloudflare R2 CDN URLs in animations.json"</i> (16 days ago)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/464019db9faf5310d93448818e830de79d0709ce"><code>464019d</code></a> <i>"fix: remove unused parameter to fix ESLint build error"</i> (16 days ago)</li>
