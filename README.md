@@ -115,8 +115,7 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/73f82227dea6b7120939bc49105062038d238368"><code>73f8222</code></a> <i>"feat: use custom ResolutionDropdown in bulk downloader and playback drawer"</i> (29 days ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/af6a0e8ba44986b2da7de814630749162f18a5a2"><code>af6a0e8</code></a> <i>"feat: add client-side bootanimation ZIP resolution resizing"</i> (1 months ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/73f82227dea6b7120939bc49105062038d238368"><code>73f8222</code></a> <i>"feat: use custom ResolutionDropdown in bulk downloader and playback drawer"</i> (1 months ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
