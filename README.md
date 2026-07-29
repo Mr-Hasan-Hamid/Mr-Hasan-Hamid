@@ -114,9 +114,7 @@
 
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
-<ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/73f82227dea6b7120939bc49105062038d238368"><code>73f8222</code></a> <i>"feat: use custom ResolutionDropdown in bulk downloader and playback drawer"</i> (1 months ago)</li>
-</ul>
+No recent activity found.
 <!-- END_SECTION:activity -->
 
 ---
