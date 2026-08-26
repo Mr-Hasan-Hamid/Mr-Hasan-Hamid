@@ -104,7 +104,17 @@
         <span>🍴 0</span>
       </div>
     </td>
-    <td width="50%" style="border: none; background: transparent;"></td>
+    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/hyprlock-dotfiles" style="text-decoration: none; color: #58a6ff;">📁 hyprlock-dotfiles</a></h3>
+      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Hyprlock Silvia Monochrome theme with all assets, fonts, and scripts</p>
+      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
+        <span style="display: inline-flex; align-items: center; gap: 4px;">
+          <circle cx="6" cy="6" r="4" fill="#89e051" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #89e051; margin-right: 4px;"></circle>Shell
+        </span>
+        <span>⭐ 0</span>
+        <span>🍴 0</span>
+      </div>
+    </td>
   </tr>
 </table>
 <!-- END_SECTION:repos -->
