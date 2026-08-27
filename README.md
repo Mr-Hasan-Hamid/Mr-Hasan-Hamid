@@ -125,7 +125,7 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>🌿 Created branch/tag <code>main</code> in <a href="https://github.com/Mr-Hasan-Hamid/hyprlock-dotfiles"><b>hyprlock-dotfiles</b></a> (14h ago)</li>
+<li>🌿 Created branch/tag <code>main</code> in <a href="https://github.com/Mr-Hasan-Hamid/hyprlock-dotfiles"><b>hyprlock-dotfiles</b></a> (yesterday)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
