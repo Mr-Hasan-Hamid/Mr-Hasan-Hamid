@@ -70,6 +70,17 @@
   </tr>
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/sddm-theme" style="text-decoration: none; color: #58a6ff;">📁 sddm-theme</a></h3>
+      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Custom Silent SDDM theme with Hyprlock typography (Cracked Code & Oriental Chicken...</p>
+      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
+        <span style="display: inline-flex; align-items: center; gap: 4px;">
+          <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>QML
+        </span>
+        <span>⭐ 0</span>
+        <span>🍴 0</span>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck" style="text-decoration: none; color: #58a6ff;">📁 bootanimdeck</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
@@ -80,6 +91,8 @@
         <span>🍴 0</span>
       </div>
     </td>
+  </tr>
+  <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid" style="text-decoration: none; color: #58a6ff;">📁 Mr-Hasan-Hamid</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
@@ -91,25 +104,12 @@
         <span>🍴 0</span>
       </div>
     </td>
-  </tr>
-  <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/hasan-20" style="text-decoration: none; color: #58a6ff;">📁 hasan-20</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>Other
-        </span>
-        <span>⭐ 0</span>
-        <span>🍴 0</span>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/hyprlock-dotfiles" style="text-decoration: none; color: #58a6ff;">📁 hyprlock-dotfiles</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Hyprlock Silvia Monochrome theme with all assets, fonts, and scripts</p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#89e051" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #89e051; margin-right: 4px;"></circle>Shell
         </span>
         <span>⭐ 0</span>
         <span>🍴 0</span>
@@ -125,8 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>⭐ Starred repository <a href="https://github.com/rukamori/ArchiveTune"><b>rukamori/ArchiveTune</b></a> (21h ago)</li>
-<li>🌿 Created branch/tag <code>main</code> in <a href="https://github.com/Mr-Hasan-Hamid/hyprlock-dotfiles"><b>hyprlock-dotfiles</b></a> (17 days ago)</li>
+<li>✅ Closed Issue <a href="https://github.com/LinuxBeginnings/Hyprland-Dots/issues/130"><b>#130</b></a> in <a href="https://github.com/LinuxBeginnings/Hyprland-Dots"><b>LinuxBeginnings/Hyprland-Dots</b></a>: <i>"[Bug]: Lua mode breaks Waybar workspace mouse clicking (syntax error on socket dispatch)"</i> (1h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/bea32cc3955c4579f3fc564331cafe96c19dd2ca"><code>bea32cc</code></a> <i>"fix(sddm): add NixOS theme path fallback and relative rofi theme import"</i> (2h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/2050a6ad3d8612cd8e6e4595b27bb839d1f9962b"><code>2050a6a</code></a> <i>"fix(keybinds): change SDDM shortcut to SUPER+SHIFT+L and add XDG_CONFIG_HOME resolution"</i> (2h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/2f491b8a8a5967e2c3fbda58552266cd6a162845"><code>2f491b8</code></a> <i>"fix(sddm): refine preset parsing, test-mode env, and authorization fallback"</i> (2h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/6274928d3f0ff2f1c6410381679e6891af3cd0de"><code>6274928</code></a> <i>"chore(previews): add authentic Silvia 1080p preview"</i> (2h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
