@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>✅ Closed Issue <a href="https://github.com/LinuxBeginnings/Hyprland-Dots/issues/130"><b>#130</b></a> in <a href="https://github.com/LinuxBeginnings/Hyprland-Dots"><b>LinuxBeginnings/Hyprland-Dots</b></a>: <i>"[Bug]: Lua mode breaks Waybar workspace mouse clicking (syntax error on socket dispatch)"</i> (21h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/bea32cc3955c4579f3fc564331cafe96c19dd2ca"><code>bea32cc</code></a> <i>"fix(sddm): add NixOS theme path fallback and relative rofi theme import"</i> (22h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/2050a6ad3d8612cd8e6e4595b27bb839d1f9962b"><code>2050a6a</code></a> <i>"fix(keybinds): change SDDM shortcut to SUPER+SHIFT+L and add XDG_CONFIG_HOME resolution"</i> (22h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/2f491b8a8a5967e2c3fbda58552266cd6a162845"><code>2f491b8</code></a> <i>"fix(sddm): refine preset parsing, test-mode env, and authorization fallback"</i> (22h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/6274928d3f0ff2f1c6410381679e6891af3cd0de"><code>6274928</code></a> <i>"chore(previews): add authentic Silvia 1080p preview"</i> (22h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/18e5583f5d0bf913f57f123a4d9368c2c0b69e88"><code>18e5583</code></a> <i>"fix: make sudoers rule universal and refine preset switcher script"</i> (yesterday)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/05c131a1adb490249417ceb0c9d5206a366c2bd7"><code>05c131a</code></a> <i>"chore(assets): update Silvia preview with authentic theme screenshot"</i> (yesterday)</li>
+<li>🌿 Created branch/tag <code>feat/sddm-preset-switcher</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a> (yesterday)</li>
+<li>✅ Closed Issue <a href="https://github.com/LinuxBeginnings/Hyprland-Dots/issues/130"><b>#130</b></a> in <a href="https://github.com/LinuxBeginnings/Hyprland-Dots"><b>LinuxBeginnings/Hyprland-Dots</b></a>: <i>"[Bug]: Lua mode breaks Waybar workspace mouse clicking (syntax error on socket dispatch)"</i> (yesterday)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/bea32cc3955c4579f3fc564331cafe96c19dd2ca"><code>bea32cc</code></a> <i>"fix(sddm): add NixOS theme path fallback and relative rofi theme import"</i> (yesterday)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
