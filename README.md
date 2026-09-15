@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/64c532a0cd927a300f9fd1e9635dc2d79deafaf7"><code>64c532a</code></a> <i>"docs: add Silvia, Rei, and Ken preset previews to README"</i> (yesterday)</li>
-<li>🌿 Created branch/tag <code>feat/sekiro-wlogout-theme</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a> (yesterday)</li>
-<li>🌿 Created branch/tag <code>feat/sekiro-wlogout-theme</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots"><b>Hyprland-Dots</b></a> (yesterday)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/bdbfb1769ba821c63272818bce35b470ae05f0c2"><code>bdbfb17</code></a> <i>"fix(sddm): support NixOS theme paths and relative rofi config import"</i> (yesterday)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/18e5583f5d0bf913f57f123a4d9368c2c0b69e88"><code>18e5583</code></a> <i>"fix: make sudoers rule universal and refine preset switcher script"</i> (yesterday)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/64c532a0cd927a300f9fd1e9635dc2d79deafaf7"><code>64c532a</code></a> <i>"docs: add Silvia, Rei, and Ken preset previews to README"</i> (2 days ago)</li>
+<li>🌿 Created branch/tag <code>feat/sekiro-wlogout-theme</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a> (2 days ago)</li>
+<li>🌿 Created branch/tag <code>feat/sekiro-wlogout-theme</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots"><b>Hyprland-Dots</b></a> (2 days ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/bdbfb1769ba821c63272818bce35b470ae05f0c2"><code>bdbfb17</code></a> <i>"fix(sddm): support NixOS theme paths and relative rofi config import"</i> (2 days ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/18e5583f5d0bf913f57f123a4d9368c2c0b69e88"><code>18e5583</code></a> <i>"fix: make sudoers rule universal and refine preset switcher script"</i> (2 days ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
