@@ -128,8 +128,8 @@
 <li>🔀 Merged PR <a href="None"><b>#131</b></a> in <a href="https://github.com/LinuxBeginnings/Hyprland-Dots"><b>LinuxBeginnings/Hyprland-Dots</b></a>: <i>"None"</i> (5 days ago)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB/commit/b9ac2567bdbea464fc935338cd374e687eecb95c"><code>b9ac256</code></a> <i>"feat(wlogout): add multi-preset theme switcher, dynamic wallust integration, and 4 custom presets"</i> (5 days ago)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/64c532a0cd927a300f9fd1e9635dc2d79deafaf7"><code>64c532a</code></a> <i>"docs: add Silvia, Rei, and Ken preset previews to README"</i> (7 days ago)</li>
-<li>🌿 Created branch/tag <code>feat/sekiro-wlogout-theme</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a> (7 days ago)</li>
-<li>🌿 Created branch/tag <code>feat/sekiro-wlogout-theme</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots"><b>Hyprland-Dots</b></a> (7 days ago)</li>
+<li>🌿 Created branch/tag <code>feat/sekiro-wlogout-theme</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB"><b>Hyprland-Dots-LB</b></a> (8 days ago)</li>
+<li>🌿 Created branch/tag <code>feat/sekiro-wlogout-theme</code> in <a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots"><b>Hyprland-Dots</b></a> (8 days ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
