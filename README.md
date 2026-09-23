@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>🌿 Created branch/tag <code>register-mrhasan</code> in <a href="https://github.com/Mr-Hasan-Hamid/register"><b>register</b></a> (2h ago)</li>
-<li>🌿 Created branch/tag <code>feat/add-kernelsu-support</code> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a> (1h ago)</li>
-<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands"><b>Mr-Hasan-Hamid/Arch-Hyprlands</b></a> (49m ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/1641ad5d31c91320b7f8edb78bdd9b8262e75196"><code>1641ad5</code></a> <i>"Merge pull request #2 from Mr-Hasan-Hamid/docs/add-upstream-credits"</i> (57m ago)</li>
-<li>🔀 Merged PR <a href="None"><b>#2</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <i>"None"</i> (57m ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/abb74bfe979f9560758d142d6961838bc6b5c4a3"><code>abb74bf</code></a> <i>"Merge pull request #1 from Mr-Hasan-Hamid/feat/add-kernelsu-support"</i> (6h ago)</li>
+<li>🌿 Created branch/tag <code>register-mrhasan</code> in <a href="https://github.com/Mr-Hasan-Hamid/register"><b>register</b></a> (7h ago)</li>
+<li>🌿 Created branch/tag <code>feat/add-kernelsu-support</code> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a> (6h ago)</li>
+<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands"><b>Mr-Hasan-Hamid/Arch-Hyprlands</b></a> (5h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/1641ad5d31c91320b7f8edb78bdd9b8262e75196"><code>1641ad5</code></a> <i>"Merge pull request #2 from Mr-Hasan-Hamid/docs/add-upstream-credits"</i> (6h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
