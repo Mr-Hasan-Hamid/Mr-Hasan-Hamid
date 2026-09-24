@@ -57,18 +57,29 @@
       </div>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/X-Invoice-Template" style="text-decoration: none; color: #58a6ff;">📁 X-Invoice-Template</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB" style="text-decoration: none; color: #58a6ff;">📁 Hyprland-Dots-LB</a></h3>
+      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Hyprland "dotfiles"  to install a well rounded Hyprland configuration </p>
       <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
         <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#f1e05a" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #f1e05a; margin-right: 4px;"></circle>JavaScript
+          <circle cx="6" cy="6" r="4" fill="#89e051" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #89e051; margin-right: 4px;"></circle>Shell
         </span>
-        <span>⭐ 0</span>
+        <span>⭐ 1</span>
         <span>🍴 0</span>
       </div>
     </td>
   </tr>
   <tr style="border: none;">
+    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/register" style="text-decoration: none; color: #58a6ff;">📁 register</a></h3>
+      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Grab your own sweet-looking '.is-a.dev' subdomain.</p>
+      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
+        <span style="display: inline-flex; align-items: center; gap: 4px;">
+          <circle cx="6" cy="6" r="4" fill="#f1e05a" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #f1e05a; margin-right: 4px;"></circle>JavaScript
+        </span>
+        <span>⭐ 1</span>
+        <span>🍴 0</span>
+      </div>
+    </td>
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/sddm-theme" style="text-decoration: none; color: #58a6ff;">📁 sddm-theme</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Custom Silent SDDM theme with Hyprlock typography (Cracked Code & Oriental Chicken...</p>
@@ -76,10 +87,12 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>QML
         </span>
-        <span>⭐ 0</span>
+        <span>⭐ 1</span>
         <span>🍴 0</span>
       </div>
     </td>
+  </tr>
+  <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck" style="text-decoration: none; color: #58a6ff;">📁 bootanimdeck</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
@@ -87,12 +100,10 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#3178c6" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3178c6; margin-right: 4px;"></circle>TypeScript
         </span>
-        <span>⭐ 0</span>
+        <span>⭐ 1</span>
         <span>🍴 0</span>
       </div>
     </td>
-  </tr>
-  <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid" style="text-decoration: none; color: #58a6ff;">📁 Mr-Hasan-Hamid</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
@@ -100,18 +111,7 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#3572a5" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3572a5; margin-right: 4px;"></circle>Python
         </span>
-        <span>⭐ 0</span>
-        <span>🍴 0</span>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/hasan-20" style="text-decoration: none; color: #58a6ff;">📁 hasan-20</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>Other
-        </span>
-        <span>⭐ 0</span>
+        <span>⭐ 1</span>
         <span>🍴 0</span>
       </div>
     </td>
@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/abb74bfe979f9560758d142d6961838bc6b5c4a3"><code>abb74bf</code></a> <i>"Merge pull request #1 from Mr-Hasan-Hamid/feat/add-kernelsu-support"</i> (6h ago)</li>
-<li>🌿 Created branch/tag <code>register-mrhasan</code> in <a href="https://github.com/Mr-Hasan-Hamid/register"><b>register</b></a> (7h ago)</li>
-<li>🌿 Created branch/tag <code>feat/add-kernelsu-support</code> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a> (6h ago)</li>
-<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands"><b>Mr-Hasan-Hamid/Arch-Hyprlands</b></a> (5h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/1641ad5d31c91320b7f8edb78bdd9b8262e75196"><code>1641ad5</code></a> <i>"Merge pull request #2 from Mr-Hasan-Hamid/docs/add-upstream-credits"</i> (6h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/abb74bfe979f9560758d142d6961838bc6b5c4a3"><code>abb74bf</code></a> <i>"Merge pull request #1 from Mr-Hasan-Hamid/feat/add-kernelsu-support"</i> (11h ago)</li>
+<li>🌿 Created branch/tag <code>register-mrhasan</code> in <a href="https://github.com/Mr-Hasan-Hamid/register"><b>register</b></a> (12h ago)</li>
+<li>🌿 Created branch/tag <code>feat/add-kernelsu-support</code> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a> (11h ago)</li>
+<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands"><b>Mr-Hasan-Hamid/Arch-Hyprlands</b></a> (11h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>sddm-theme</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme/commit/1641ad5d31c91320b7f8edb78bdd9b8262e75196"><code>1641ad5</code></a> <i>"Merge pull request #2 from Mr-Hasan-Hamid/docs/add-upstream-credits"</i> (11h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 

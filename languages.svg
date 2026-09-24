@@ -5,23 +5,24 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-    <rect x="0.00" y="0" width="271.96" height="10" fill="#3178c6" />
-    <rect x="271.96" y="0" width="189.59" height="10" fill="#858585" />
-    <rect x="461.56" y="0" width="172.39" height="10" fill="#89e051" />
-    <rect x="633.95" y="0" width="96.97" height="10" fill="#f1e05a" />
-    <rect x="730.92" y="0" width="50.76" height="10" fill="#3572a5" />
-    <rect x="781.68" y="0" width="18.32" height="10" fill="#858585" />
+    <rect x="0.00" y="0" width="265.00" height="10" fill="#89e051" />
+    <rect x="265.00" y="0" width="141.81" height="10" fill="#858585" />
+    <rect x="406.81" y="0" width="125.49" height="10" fill="#563d7c" />
+    <rect x="532.30" y="0" width="120.41" height="10" fill="#3178c6" />
+    <rect x="652.71" y="0" width="99.89" height="10" fill="#f1e05a" />
+    <rect x="752.61" y="0" width="38.86" height="10" fill="#3572a5" />
+    <rect x="791.47" y="0" width="8.53" height="10" fill="#858585" />
   </g>
-  <circle cx="10" cy="31" r="5" fill="#3178c6" />
-  <text x="22" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">TypeScript <tspan fill="#8b949e">(34.0%)</tspan></text>
+  <circle cx="10" cy="31" r="5" fill="#89e051" />
+  <text x="22" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Shell <tspan fill="#8b949e">(33.1%)</tspan></text>
   <circle cx="270" cy="31" r="5" fill="#858585" />
-  <text x="282" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">QML <tspan fill="#8b949e">(23.7%)</tspan></text>
-  <circle cx="530" cy="31" r="5" fill="#89e051" />
-  <text x="542" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Shell <tspan fill="#8b949e">(21.5%)</tspan></text>
-  <circle cx="10" cy="51" r="5" fill="#f1e05a" />
-  <text x="22" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">JavaScript <tspan fill="#8b949e">(12.1%)</tspan></text>
-  <circle cx="270" cy="51" r="5" fill="#3572a5" />
-  <text x="282" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Python <tspan fill="#8b949e">(6.3%)</tspan></text>
-  <circle cx="530" cy="51" r="5" fill="#858585" />
-  <text x="542" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Other <tspan fill="#8b949e">(2.3%)</tspan></text>
+  <text x="282" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">QML <tspan fill="#8b949e">(17.7%)</tspan></text>
+  <circle cx="530" cy="31" r="5" fill="#563d7c" />
+  <text x="542" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">CSS <tspan fill="#8b949e">(15.7%)</tspan></text>
+  <circle cx="10" cy="51" r="5" fill="#3178c6" />
+  <text x="22" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">TypeScript <tspan fill="#8b949e">(15.1%)</tspan></text>
+  <circle cx="270" cy="51" r="5" fill="#f1e05a" />
+  <text x="282" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">JavaScript <tspan fill="#8b949e">(12.5%)</tspan></text>
+  <circle cx="530" cy="51" r="5" fill="#3572a5" />
+  <text x="542" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9" font-weight="500">Python <tspan fill="#8b949e">(4.9%)</tspan></text>
 </svg>
