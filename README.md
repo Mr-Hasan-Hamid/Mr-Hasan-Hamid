@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>⚙️ Opened PR <a href="None"><b>#1031</b></a> in <a href="https://github.com/webadderallorg/Recordly"><b>webadderallorg/Recordly</b></a>: <i>"None"</i> (55m ago)</li>
-<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/register"><b>Mr-Hasan-Hamid/register</b></a> (8h ago)</li>
-<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/sddm-theme"><b>Mr-Hasan-Hamid/sddm-theme</b></a> (8h ago)</li>
-<li>⭐ Starred repository <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>Mr-Hasan-Hamid/bootanimdeck</b></a> (8h ago)</li>
-<li>🔀 Merged PR <a href="None"><b>#53623</b></a> in <a href="https://github.com/is-a-dev/register"><b>is-a-dev/register</b></a>: <i>"None"</i> (11h ago)</li>
+<li>🔀 Merged PR <a href="None"><b>#1</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <i>"None"</i> (13s ago)</li>
+<li>⚙️ Opened PR <a href="None"><b>#1</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <i>"None"</i> (23s ago)</li>
+<li>🌿 Created branch/tag <code>feature/linux-wayland-cursor-telemetry</code> in <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a> (1h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/43ec65d4f474c8cc25704ec55d55e4fc6ba80942"><code>43ec65d</code></a> <i>"fix(cursor): gate Wayland interaction capture, align logical coordinates, and harden socket polling"</i> (16m ago)</li>
+<li>⚙️ Opened PR <a href="None"><b>#1031</b></a> in <a href="https://github.com/webadderallorg/Recordly"><b>webadderallorg/Recordly</b></a>: <i>"None"</i> (1h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
