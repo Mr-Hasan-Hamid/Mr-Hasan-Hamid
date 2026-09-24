@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>🔀 Merged PR <a href="None"><b>#1</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <i>"None"</i> (13s ago)</li>
-<li>⚙️ Opened PR <a href="None"><b>#1</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <i>"None"</i> (23s ago)</li>
-<li>🌿 Created branch/tag <code>feature/linux-wayland-cursor-telemetry</code> in <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a> (1h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/43ec65d4f474c8cc25704ec55d55e4fc6ba80942"><code>43ec65d</code></a> <i>"fix(cursor): gate Wayland interaction capture, align logical coordinates, and harden socket polling"</i> (16m ago)</li>
-<li>⚙️ Opened PR <a href="None"><b>#1031</b></a> in <a href="https://github.com/webadderallorg/Recordly"><b>webadderallorg/Recordly</b></a>: <i>"None"</i> (1h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/ba08d313b0b07f0a29bbba3677185d25b23bac44"><code>ba08d31</code></a> <i>"Merge pull request #1 from Mr-Hasan-Hamid/Mr-Hasan-Hamid-patch-1"</i> (3h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/6d469d9429d7e55c4eb4ce080fea8a2d71a1bb31"><code>6d469d9</code></a> <i>"feat(linux): improve window bounds resolution and click accuracy on Hyprland"</i> (5h ago)</li>
+<li>🔀 Merged PR <a href="None"><b>#1</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <i>"None"</i> (3h ago)</li>
+<li>⚙️ Opened PR <a href="None"><b>#1</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <i>"None"</i> (3h ago)</li>
+<li>🌿 Created branch/tag <code>feature/linux-wayland-cursor-telemetry</code> in <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a> (5h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
