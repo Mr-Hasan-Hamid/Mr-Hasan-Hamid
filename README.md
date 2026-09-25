@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>🌿 Created branch/tag <code>Mr-Hasan-Hamid-patch-1</code> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a> (9h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/c18a8d1323278bf2729d2aa40acfaf90e4d2ecd7"><code>c18a8d1</code></a> <i>"fix(exporter,telemetry,clipboard): resolve review findings for canvas fallback, focus restoration, and window bounds scaling"</i> (8h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/84f739cf300e3d9d529febf9b546e3869b487d71"><code>84f739c</code></a> <i>"fix(exporter): prefer WebGL over WebGPU by default and add native clipboard fallback"</i> (9h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/ba08d313b0b07f0a29bbba3677185d25b23bac44"><code>ba08d31</code></a> <i>"Merge pull request #1 from Mr-Hasan-Hamid/Mr-Hasan-Hamid-patch-1"</i> (9h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/6d469d9429d7e55c4eb4ce080fea8a2d71a1bb31"><code>6d469d9</code></a> <i>"feat(linux): improve window bounds resolution and click accuracy on Hyprland"</i> (10h ago)</li>
+<li>🌿 Created branch/tag <code>Mr-Hasan-Hamid-patch-1</code> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a> (17h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/c18a8d1323278bf2729d2aa40acfaf90e4d2ecd7"><code>c18a8d1</code></a> <i>"fix(exporter,telemetry,clipboard): resolve review findings for canvas fallback, focus restoration, and window bounds scaling"</i> (17h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/84f739cf300e3d9d529febf9b546e3869b487d71"><code>84f739c</code></a> <i>"fix(exporter): prefer WebGL over WebGPU by default and add native clipboard fallback"</i> (18h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/ba08d313b0b07f0a29bbba3677185d25b23bac44"><code>ba08d31</code></a> <i>"Merge pull request #1 from Mr-Hasan-Hamid/Mr-Hasan-Hamid-patch-1"</i> (17h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/6d469d9429d7e55c4eb4ce080fea8a2d71a1bb31"><code>6d469d9</code></a> <i>"feat(linux): improve window bounds resolution and click accuracy on Hyprland"</i> (19h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
