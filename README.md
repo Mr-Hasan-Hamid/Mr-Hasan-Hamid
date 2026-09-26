@@ -52,7 +52,7 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#f1e05a" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #f1e05a; margin-right: 4px;"></circle>JavaScript
         </span>
-        <span>⭐ 2</span>
+        <span>⭐ 3</span>
         <span>🍴 0</span>
       </div>
     </td>
@@ -63,7 +63,7 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#89e051" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #89e051; margin-right: 4px;"></circle>Shell
         </span>
-        <span>⭐ 2</span>
+        <span>⭐ 3</span>
         <span>🍴 0</span>
       </div>
     </td>
@@ -76,7 +76,7 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>QML
         </span>
-        <span>⭐ 2</span>
+        <span>⭐ 3</span>
         <span>🍴 0</span>
       </div>
     </td>
@@ -87,23 +87,12 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#3178c6" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3178c6; margin-right: 4px;"></circle>TypeScript
         </span>
-        <span>⭐ 2</span>
-        <span>🍴 0</span>
+        <span>⭐ 3</span>
+        <span>🍴 1</span>
       </div>
     </td>
   </tr>
   <tr style="border: none;">
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Hyprland-Dots-LB" style="text-decoration: none; color: #58a6ff;">📁 Hyprland-Dots-LB</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Hyprland "dotfiles"  to install a well rounded Hyprland configuration </p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#89e051" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #89e051; margin-right: 4px;"></circle>Shell
-        </span>
-        <span>⭐ 1</span>
-        <span>🍴 0</span>
-      </div>
-    </td>
     <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
       <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid" style="text-decoration: none; color: #58a6ff;">📁 Mr-Hasan-Hamid</a></h3>
       <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
@@ -111,7 +100,18 @@
         <span style="display: inline-flex; align-items: center; gap: 4px;">
           <circle cx="6" cy="6" r="4" fill="#3572a5" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3572a5; margin-right: 4px;"></circle>Python
         </span>
-        <span>⭐ 1</span>
+        <span>⭐ 2</span>
+        <span>🍴 0</span>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/hasan-20" style="text-decoration: none; color: #58a6ff;">📁 hasan-20</a></h3>
+      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
+      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
+        <span style="display: inline-flex; align-items: center; gap: 4px;">
+          <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>Other
+        </span>
+        <span>⭐ 2</span>
         <span>🍴 0</span>
       </div>
     </td>
@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/08cfccedfc1b3fdf7e70b7aeee05b1c3662f1e30"><code>08cfcce</code></a> <i>"Merge pull request #2 from 19-AKA-HH/feat/video-dropzone-drag-drop"</i> (4h ago)</li>
 <li>🌿 Created branch/tag <code>Mr-Hasan-Hamid-patch-1</code> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a> (yesterday)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/c18a8d1323278bf2729d2aa40acfaf90e4d2ecd7"><code>c18a8d1</code></a> <i>"fix(exporter,telemetry,clipboard): resolve review findings for canvas fallback, focus restoration, and window bounds scaling"</i> (yesterday)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/84f739cf300e3d9d529febf9b546e3869b487d71"><code>84f739c</code></a> <i>"fix(exporter): prefer WebGL over WebGPU by default and add native clipboard fallback"</i> (yesterday)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/commit/ba08d313b0b07f0a29bbba3677185d25b23bac44"><code>ba08d31</code></a> <i>"Merge pull request #1 from Mr-Hasan-Hamid/Mr-Hasan-Hamid-patch-1"</i> (yesterday)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/6d469d9429d7e55c4eb4ce080fea8a2d71a1bb31"><code>6d469d9</code></a> <i>"feat(linux): improve window bounds resolution and click accuracy on Hyprland"</i> (yesterday)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
