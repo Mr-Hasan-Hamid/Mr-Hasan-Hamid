@@ -125,7 +125,7 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/08cfccedfc1b3fdf7e70b7aeee05b1c3662f1e30"><code>08cfcce</code></a> <i>"Merge pull request #2 from 19-AKA-HH/feat/video-dropzone-drag-drop"</i> (4h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/08cfccedfc1b3fdf7e70b7aeee05b1c3662f1e30"><code>08cfcce</code></a> <i>"Merge pull request #2 from 19-AKA-HH/feat/video-dropzone-drag-drop"</i> (9h ago)</li>
 <li>🌿 Created branch/tag <code>Mr-Hasan-Hamid-patch-1</code> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a> (yesterday)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/c18a8d1323278bf2729d2aa40acfaf90e4d2ecd7"><code>c18a8d1</code></a> <i>"fix(exporter,telemetry,clipboard): resolve review findings for canvas fallback, focus restoration, and window bounds scaling"</i> (yesterday)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Recordly"><b>Recordly</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Recordly/commit/84f739cf300e3d9d529febf9b546e3869b487d71"><code>84f739c</code></a> <i>"fix(exporter): prefer WebGL over WebGPU by default and add native clipboard fallback"</i> (yesterday)</li>
