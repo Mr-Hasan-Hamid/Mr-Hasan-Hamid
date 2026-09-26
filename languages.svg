@@ -5,10 +5,10 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-    <rect x="0.00" y="0" width="429.51" height="10" fill="#3178c6" />
-    <rect x="429.51" y="0" width="121.02" height="10" fill="#89e051" />
-    <rect x="550.54" y="0" width="67.08" height="10" fill="#f1e05a" />
-    <rect x="617.61" y="0" width="63.91" height="10" fill="#563d7c" />
+    <rect x="0.00" y="0" width="429.53" height="10" fill="#3178c6" />
+    <rect x="429.53" y="0" width="121.02" height="10" fill="#89e051" />
+    <rect x="550.55" y="0" width="67.07" height="10" fill="#f1e05a" />
+    <rect x="617.62" y="0" width="63.91" height="10" fill="#563d7c" />
     <rect x="681.53" y="0" width="52.16" height="10" fill="#858585" />
     <rect x="733.69" y="0" width="26.29" height="10" fill="#f34b7d" />
     <rect x="759.98" y="0" width="13.84" height="10" fill="#858585" />
