@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>🔀 Merged PR <a href="None"><b>#3</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <i>"None"</i> (3h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/8c74a739644f9b54919d9ba44bc952d762f76e87"><code>8c74a73</code></a> <i>"feat(video-to-bootanim): improve dropzone accessibility and format support (#3)"</i> (3h ago)</li>
-<li>⚙️ Opened PR <a href="None"><b>#3</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <i>"None"</i> (3h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/08cfccedfc1b3fdf7e70b7aeee05b1c3662f1e30"><code>08cfcce</code></a> <i>"Merge pull request #2 from 19-AKA-HH/feat/video-dropzone-drag-drop"</i> (14h ago)</li>
-<li>🌿 Created branch/tag <code>Mr-Hasan-Hamid-patch-1</code> in <a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid"><b>Mr-Hasan-Hamid</b></a> (2 days ago)</li>
+<li>🌿 Created branch/tag <code>feat/enhance-dropzone-accessibility</code> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a> (9h ago)</li>
+<li>🔀 Merged PR <a href="None"><b>#3</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <i>"None"</i> (9h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/8c74a739644f9b54919d9ba44bc952d762f76e87"><code>8c74a73</code></a> <i>"feat(video-to-bootanim): improve dropzone accessibility and format support (#3)"</i> (9h ago)</li>
+<li>⚙️ Opened PR <a href="None"><b>#3</b></a> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <i>"None"</i> (9h ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck/commit/08cfccedfc1b3fdf7e70b7aeee05b1c3662f1e30"><code>08cfcce</code></a> <i>"Merge pull request #2 from 19-AKA-HH/feat/video-dropzone-drag-drop"</i> (20h ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
