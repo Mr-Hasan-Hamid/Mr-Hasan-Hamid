@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>🔀 Merged PR <a href="None"><b>#4</b></a> in <a href="https://github.com/19-AKA-HH/bootanimdeck"><b>19-AKA-HH/bootanimdeck</b></a>: <i>"None"</i> (9h ago)</li>
-<li>⚙️ Opened PR <a href="None"><b>#4</b></a> in <a href="https://github.com/19-AKA-HH/bootanimdeck"><b>19-AKA-HH/bootanimdeck</b></a>: <i>"None"</i> (9h ago)</li>
-<li>⭐ Starred repository <a href="https://github.com/ilyamiro/serpantinum"><b>ilyamiro/serpantinum</b></a> (yesterday)</li>
-<li>⭐ Starred repository <a href="https://github.com/dream-num/univer"><b>dream-num/univer</b></a> (2 days ago)</li>
-<li>⭐ Starred repository <a href="https://github.com/vercel/next.js"><b>vercel/next.js</b></a> (2 days ago)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/a993a4f7c92e58cfc2a289a78c591f142eea9a01"><code>a993a4f</code></a> <i>"feat: symmetrical alumni cards, split signup layout, 2-side grid blur, and redesigned bento features"</i> (2h ago)</li>
+<li>🌿 Created branch/tag <code>main</code> in <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a> (3h ago)</li>
+<li>🔀 Merged PR <a href="None"><b>#4</b></a> in <a href="https://github.com/19-AKA-HH/bootanimdeck"><b>19-AKA-HH/bootanimdeck</b></a>: <i>"None"</i> (18h ago)</li>
+<li>⚙️ Opened PR <a href="None"><b>#4</b></a> in <a href="https://github.com/19-AKA-HH/bootanimdeck"><b>19-AKA-HH/bootanimdeck</b></a>: <i>"None"</i> (18h ago)</li>
+<li>⭐ Starred repository <a href="https://github.com/ilyamiro/serpantinum"><b>ilyamiro/serpantinum</b></a> (2 days ago)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
