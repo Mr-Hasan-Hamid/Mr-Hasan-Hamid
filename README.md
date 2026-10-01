@@ -125,11 +125,11 @@
 ### ⚡ Recent Activity:
 <!-- START_SECTION:activity -->
 <ul>
-<li>🌿 Created branch/tag <code>feat/video-dropzone-and-accessibility</code> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a> (yesterday)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/848e04b44aedccdbe47bc215a900407d36d5f609"><code>848e04b</code></a> <i>"feat(landing): replace straight blur with crescent curved contour where both ends swoop upwards"</i> (yesterday)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/51a7660660689654a62750511e7211a801b5a75a"><code>51a7660</code></a> <i>"feat(brand): authenticate Meta gradient infinity ribbon, official Amazon smile vector, and Cognizant 3D geometric prism logo"</i> (yesterday)</li>
+<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/063ae3936d44deba14be8e9c26cfbe84ea7c1f7b"><code>063ae39</code></a> <i>"refactor(auth): ensure SplitSignupForm satisfies strict sub-200 line constraint"</i> (yesterday)</li>
+<li>🌿 Created branch/tag <code>feat/video-dropzone-and-accessibility</code> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a> (2 days ago)</li>
 <li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/93d255b37ec764c0bd809d89643741020f8232cb"><code>93d255b</code></a> <i>"feat: 4x6 directory grid with pagination, overhauled full-width platform capabilities, mobile hero blur fix, and centered overlapping mobile nav"</i> (yesterday)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/1ab0db75f2519fb7901d95a967b4e7a7d62d2267"><code>1ab0db7</code></a> <i>"feat: interactive directory pagination with counters, Cal.com embed integration, full interactive month calendar, dynamic focus topics, and Start with a Mentor auth link"</i> (yesterday)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/872992da8cc409cb8f32cb46d532aaa46d021106"><code>872992d</code></a> <i>"feat: 3x3 alumni grid, Image 2 card theme replication with company banners, dedicated /find-mentor page, and upgraded spacious booking modal with drag-drop resume and validation shake animation"</i> (yesterday)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/09be1e7ad347f22b2c058ca556f178d658103b0e"><code>09be1e7</code></a> <i>"feat: complete UI/UX overhaul, interactive counters, Uiverse mentor cards, and Supabase-style footer"</i> (yesterday)</li>
 </ul>
 <!-- END_SECTION:activity -->
 
