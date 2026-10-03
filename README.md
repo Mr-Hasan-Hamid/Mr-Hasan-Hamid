@@ -3,7 +3,6 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · mr-hasan-hamid</sub></p>
 <h1>Md Hasan Hamid</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Mr Hasan Hamid | Official Portfolio 
