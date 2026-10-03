@@ -1,162 +1,121 @@
-<p align="center">
-  <img src="banner_v3.png" width="100%" alt="Hasan Hamid Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Engineer;Arch+%26+Kali+Linux+with+Hyprland;Offensive+Security+%26+Pentesting;Creative+WebGL+%26+Three.js+Developer;Let's+build+something+epic." alt="Typing SVG" />
-</p>
-
----
-
-<h3 align="center">🌐 Social Connects &amp; Live Portfolios:</h3>
-<p align="center">
-  <a href="https://instagram.com/_19.hasan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/mr-hasan-hamid-8702203b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:hasanhamid4284@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-  <br />
-  <a href="https://19-hasan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%201-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 1" /></a>
-  <a href="https://sudo-hasan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%202-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 2" /></a>
-  <a href="https://mr-hasan-hamidd.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%203-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 3" /></a>
-</p>
-
-<h3 align="center">💻 Deep Dive Tech Stack:</h3>
 <div align="center">
 
-| Category | Badges / Stack |
-| :--- | :--- |
-| **Frontend & 3D Web** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat-square) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat-square) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) |
-| **Backend & Databases** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![PLpgSQL](https://img.shields.io/badge/PLpgSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
-| **Linux, DevOps & Host** | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=flat-square&logo=kali-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-33CCFF?style=flat-square&logo=hyprland&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat-square&logo=sentry&logoColor=white) |
-| **Creative Assets** | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat-square&logo=Adobe%20Fonts&logoColor=white) |
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · mr-hasan-hamid</sub></p>
+<h1>Md Hasan Hamid</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Mr Hasan Hamid | Official Portfolio 
+Web Developer &amp; Projects 
+ https://19-hasan.vercel.app/
+Student of Saini International School,Maheshtala</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-</div>
-
----
-
-<h3 align="center">📊 Language Profile:</h3>
-<p align="center">
-  <img src="languages.svg" width="100%" alt="Languages Chart" />
-</p>
-
----
-
-<h3 align="center">🚀 Top Projects Showcase:</h3>
-<div align="center">
-<!-- START_SECTION:repos -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/register" style="text-decoration: none; color: #58a6ff;">📁 register</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Grab your own sweet-looking '.is-a.dev' subdomain.</p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#f1e05a" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #f1e05a; margin-right: 4px;"></circle>JavaScript
-        </span>
-        <span>⭐ 3</span>
-        <span>🍴 0</span>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Arch-Hyprlands" style="text-decoration: none; color: #58a6ff;">📁 Arch-Hyprlands</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros</p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#89e051" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #89e051; margin-right: 4px;"></circle>Shell
-        </span>
-        <span>⭐ 3</span>
-        <span>🍴 0</span>
-      </div>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/sddm-theme" style="text-decoration: none; color: #58a6ff;">📁 sddm-theme</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">Custom Silent SDDM theme with Hyprlock typography (Cracked Code & Oriental Chicken...</p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>QML
-        </span>
-        <span>⭐ 3</span>
-        <span>🍴 0</span>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck" style="text-decoration: none; color: #58a6ff;">📁 bootanimdeck</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#3178c6" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3178c6; margin-right: 4px;"></circle>TypeScript
-        </span>
-        <span>⭐ 3</span>
-        <span>🍴 1</span>
-      </div>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid" style="text-decoration: none; color: #58a6ff;">📁 Mr-Hasan-Hamid</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#3572a5" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #3572a5; margin-right: 4px;"></circle>Python
-        </span>
-        <span>⭐ 2</span>
-        <span>🍴 0</span>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px; background: #0d1117;">
-      <h3 style="margin-top: 0; margin-bottom: 8px;"><a href="https://github.com/Mr-Hasan-Hamid/hasan-20" style="text-decoration: none; color: #58a6ff;">📁 hasan-20</a></h3>
-      <p style="font-size: 13px; color: #8b949e; height: 38px; margin-bottom: 12px; overflow: hidden; line-height: 1.4;">No description provided.</p>
-      <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 15px;">
-        <span style="display: inline-flex; align-items: center; gap: 4px;">
-          <circle cx="6" cy="6" r="4" fill="#858585" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #858585; margin-right: 4px;"></circle>Other
-        </span>
-        <span>⭐ 2</span>
-        <span>🍴 0</span>
-      </div>
-    </td>
-  </tr>
+<p><a href="https://github.com/mr-hasan-hamid">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/86195509?u=6764d8e3d296c1cc5840f8577fa3e945fe963b2a&amp;v=4" width="180" alt="Md Hasan Hamid GitHub avatar" />
+</td>
+</tr>
 </table>
-<!-- END_SECTION:repos -->
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### ⚡ Recent Activity:
-<!-- START_SECTION:activity -->
-<ul>
-<li>⭐ Starred repository <a href="https://github.com/snowarch/iNiR"><b>snowarch/iNiR</b></a> (11h ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/848e04b44aedccdbe47bc215a900407d36d5f609"><code>848e04b</code></a> <i>"feat(landing): replace straight blur with crescent curved contour where both ends swoop upwards"</i> (2 days ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/51a7660660689654a62750511e7211a801b5a75a"><code>51a7660</code></a> <i>"feat(brand): authenticate Meta gradient infinity ribbon, official Amazon smile vector, and Cognizant 3D geometric prism logo"</i> (2 days ago)</li>
-<li>📝 Committed to <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor"><b>Nex-Mentor</b></a>: <a href="https://github.com/Mr-Hasan-Hamid/Nex-Mentor/commit/063ae3936d44deba14be8e9c26cfbe84ea7c1f7b"><code>063ae39</code></a> <i>"refactor(auth): ensure SplitSignupForm satisfies strict sub-200 line constraint"</i> (2 days ago)</li>
-<li>🌿 Created branch/tag <code>feat/video-dropzone-and-accessibility</code> in <a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck"><b>bootanimdeck</b></a> (3 days ago)</li>
-</ul>
-<!-- END_SECTION:activity -->
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · QML · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 12 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>1,794 contributions · 129 active days</p></td>
+</tr>
+</table>
 
----
+<p><sub>Mr Hasan Hamid | Official Portfolio 
+Web Developer &amp; Projects 
+ https://19-hasan.vercel.app/
+Student of Saini International School,Maheshtala</sub></p>
 
-### 📊 GitHub Activity Statistics:
-<p align="center">
-  <a href="https://github.com/Mr-Hasan-Hamid">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mr-Hasan-Hamid&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Mr-Hasan-Hamid">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Hasan-Hamid&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
-  </a>
-</p>
+<h2>Proof at a glance</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Hasan-Hamid&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>1,794</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mr-hasan-hamid&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86195509%3Fu%3D6764d8e3d296c1cc5840f8577fa3e945fe963b2a%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=mr-hasan-hamid&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86195509%3Fu%3D6764d8e3d296c1cc5840f8577fa3e945fe963b2a%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Md Hasan Hamid GitHub proof metrics" />
+</picture>
 </p>
 
----
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mr-hasan-hamid&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86195509%3Fu%3D6764d8e3d296c1cc5840f8577fa3e945fe963b2a%26v%3D4&repos=mr-hasan-hamid%2Fsddm-theme%2Cmr-hasan-hamid%2Fbootanimdeck%2Cmr-hasan-hamid%2FMr-Hasan-Hamid%2Cmr-hasan-hamid%2Fhasan-20&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mr-hasan-hamid&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86195509%3Fu%3D6764d8e3d296c1cc5840f8577fa3e945fe963b2a%26v%3D4&repos=mr-hasan-hamid%2Fsddm-theme%2Cmr-hasan-hamid%2Fbootanimdeck%2Cmr-hasan-hamid%2FMr-Hasan-Hamid%2Cmr-hasan-hamid%2Fhasan-20&v=recruiter-projects-1&mode=dark" width="100%" alt="Md Hasan Hamid selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Mr-Hasan-Hamid/sddm-theme">sddm-theme</a></h3>
+<p>Custom Silent SDDM theme with Hyprlock typography (Cracked Code &amp; Oriental Chicken), video wallpapers, presets, and Hyprland Rofi switcher</p>
+<p><sub>QML · ⭐ 3 · 🍴 0</sub></p>
+<p><a href="https://github.com/Mr-Hasan-Hamid/sddm-theme">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Mr-Hasan-Hamid/bootanimdeck">bootanimdeck</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 3</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid">Mr-Hasan-Hamid</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Mr-Hasan-Hamid/hasan-20">hasan-20</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 2</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Mr-Hasan-Hamid&icon=0&color=0" alt="Visitor Count" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mr-hasan-hamid&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86195509%3Fu%3D6764d8e3d296c1cc5840f8577fa3e945fe963b2a%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mr-hasan-hamid&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86195509%3Fu%3D6764d8e3d296c1cc5840f8577fa3e945fe963b2a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Md Hasan Hamid technology stack" />
+</picture>
 </p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>72% of public code</sub></td>
+<td width="20%" align="center"><strong>QML</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mr-hasan-hamid&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86195509%3Fu%3D6764d8e3d296c1cc5840f8577fa3e945fe963b2a%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mr-hasan-hamid&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86195509%3Fu%3D6764d8e3d296c1cc5840f8577fa3e945fe963b2a%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Md Hasan Hamid contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/mr-hasan-hamid">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Md Hasan Hamid · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
